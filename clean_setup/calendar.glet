@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>date '+%A'</string>
+	<string>cal</string>
 	<key>DisplayID</key>
 	<integer>69732992</integer>
 	<key>DropShadow</key>
@@ -50,17 +50,17 @@
 	AAAAAAEMQgAABd7///MmAAAHkwAA/ZD///ui///9owAAA9wAAMBu
 	</data>
 	<key>FontFamily</key>
-	<string>HelveticaNeue-Light</string>
+	<string>HelveticaNeue-UltraLight</string>
 	<key>FontSize</key>
-	<real>72</real>
+	<real>14</real>
 	<key>GeekletFrame</key>
-	<string>{{746.66796875, 181.890625}, {391, 152}}</string>
+	<string>{{1124, 134}, {316, 135}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
-	<string>day</string>
+	<string>calendar</string>
 	<key>RefreshInterval</key>
 	<integer>600</integer>
 	<key>SetLocale</key>

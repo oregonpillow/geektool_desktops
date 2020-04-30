@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>/usr/local/bin/icalBuddy -sc -npn -nc -iep "title,datetime" -ps "| : |" -po "datetime,title" -tf "" -df "%RD" -eed eventsToday</string>
+	<string>/usr/local/bin/icalBuddy -sc -npn -nc -iep "title,datetime" -ps "| : |" -po "datetime,title" -tf "" -df "%RD" -eed eventsToday+1</string>
 	<key>DisplayID</key>
 	<integer>69732992</integer>
+	<key>DoesOverrideText</key>
+	<false/>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
@@ -60,7 +62,7 @@
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
-	<string>events_today</string>
+	<string>ical_display</string>
 	<key>RefreshInterval</key>
 	<integer>600</integer>
 	<key>SetLocale</key>

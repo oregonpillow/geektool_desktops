@@ -59,7 +59,7 @@
 	<key>FontSize</key>
 	<real>200</real>
 	<key>GeekletFrame</key>
-	<string>{{-13, 67}, {547, 229}}</string>
+	<string>{{3.0234375, 65.703125}, {1299, 257}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
@@ -113,8 +113,8 @@
 	</data>
 	<key>TextColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAYNS/n8/g27/fz+Djd99P4Y=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZgEBhg==
 	</data>
 	<key>TextStrikethrough</key>
 	<integer>0</integer>

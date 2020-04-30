@@ -1,0 +1,20 @@
+inspiration source: https://www.reddit.com/r/GeekTool/comments/202pvy/so_glad_i_was_introduced_to_geektool_heres_my_set/
+
+wallpaper source: https://i.imgur.com/XfbYO8V.png
+
+font: Helvetica Neue
+
+
+Requirements: 
+'brew install ical-buddy' - (https://github.com/Homebrew/formulae.brew.sh)
+'brew install keith/formulae/reminders-cli' - (https://github.com/keith/reminders-cli)
+
+
+
+General layout:
+
+- Dark bar with partial transparancy at top
+- left side is ical-buddy which shows events in my calender for today and tomorrow
+- bottom is reminders-cli which links to 2 of my Apple reminder lists 'Now' and 'Later'
+ 
+	  
