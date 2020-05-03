@@ -5,13 +5,13 @@
 	<key>DisplayID</key>
 	<integer>69732992</integer>
 	<key>GeekletFrame</key>
-	<string>{{-66, 98}, {1495, 183}}</string>
+	<string>{{-132.3671875, 96.3671875}, {1495, 183}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.image</string>
 	<key>ImageURL</key>
-	<string>file:///~/Documents/Github/geektool_desktops/clean_setup/bar.png</string>
+	<string>file:///Users/timothypillow/Documents/Github/geektool_desktops/clean_setup/bar.png</string>
 	<key>KeepOnTop</key>
 	<false/>
 	<key>Name</key>

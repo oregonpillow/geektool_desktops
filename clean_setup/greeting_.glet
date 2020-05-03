@@ -24,10 +24,10 @@ elif in_between(12, 18):
     print("Good Afternoon Tim")
 elif in_between(18, 21):
     print("Good Evening Tim")
-elif in_between(21, 22):
-    print("Time for bed")
+elif in_between(21, 23):
+    print("        Time for bed")
 elif in_between(23, 0):
-    print("Go to fucking bed!!!")
+    print("Fuck it's late!!!")
 elif in_between(0, 4):
     print("Go.To.Fucking.Sleep")
 elif in_between(4, 6):
@@ -83,7 +83,7 @@ elif in_between(4, 6):
 	<key>FontSize</key>
 	<real>48</real>
 	<key>GeekletFrame</key>
-	<string>{{414, 382}, {872.58984375, 124.66015625}}</string>
+	<string>{{414, 382}, {873, 125}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
